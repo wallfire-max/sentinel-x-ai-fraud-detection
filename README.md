@@ -195,16 +195,6 @@ This project helped me gain hands-on experience with:
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of:
-
-* Main Dashboard
-* Neural Network Visualization
-* Reconstruction Error Graph
-* Anomaly Detection Alert
-
----
 
 ## 👨‍💻 Author
 
